@@ -3,3 +3,5 @@ This file is created for initial commit of repository.
 Changes added for checking commits in the git.
 
 Third line added.
+
+Scaffold-DbContext "Server=KAKUMANI\SQLEXPRESS;Database=EmployeeDB;User Id=sa;Password=sa@12345" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
