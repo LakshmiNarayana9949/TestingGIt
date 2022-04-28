@@ -1,3 +1,5 @@
 This file is created for initial commit of repository.
 
-Changes added for checking commits in git.
+Changes added for checking commits in the git.
+
+Third line added.
